@@ -1,8 +1,6 @@
 
 body {background-color: #f17bd4}
-img {
-    border-radius: 3%;
-  }
+img {border-radius: 3%;}
 .mediaobject img {border: 3px dotted #FF1493; padding:1em;}
 
 h1.groove {border-style: groove;}
