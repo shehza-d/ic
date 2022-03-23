@@ -1,6 +1,18 @@
 
 body {background-color: #f17bd4}
 img {border-radius: 3%;}
-.mediaobject img {border: 3px dotted #FF1493; padding:1em;}
+/* .mediaobject img {border: 3px dotted #FF1493; padding:1em;} */
+.main-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
 
-h1.groove {border-style: groove;}
+h1,h2,h3,p { text-align: center;}
+.map-img {  
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+width: 30%;   }
+/* h1.groove {border-style: groove;} */
